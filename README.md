@@ -1,5 +1,3 @@
-# trainin-dayz
-ES6 JS
 if (random === 0) {
     return 'Marathon';
   } else if (random === 1) {
